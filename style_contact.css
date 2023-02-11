@@ -1,0 +1,20 @@
+body {
+    margin:19px;
+color: lightslategray;
+    background-color: white;
+    
+  }
+  
+  .d1{
+    display: flex;
+  }
+  .d2{
+    font-size: 22px;
+    padding: 100px;
+
+  }
+  .d3{
+    padding-top: 80px;;
+    padding-left: 200px;
+    padding-bottom: 80px;
+  }
